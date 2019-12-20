@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7860426d-c307-4cef-ac8a-e333d1b3d716" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-comment/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-comment/src/main/java/com/yudachi/comment/CommentApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-comment/src/main/java/com/yudachi/comment/controller/CommentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-comment/src/main/java/com/yudachi/comment/entity/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-comment/src/main/java/com/yudachi/comment/entity/SensitiveWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-comment/src/main/java/com/yudachi/comment/entity/UnSensitiveWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-comment/src/main/java/com/yudachi/comment/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-comment/src/main/java/com/yudachi/comment/entity/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-comment/src/main/java/com/yudachi/comment/repository/CommentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-comment/src/main/java/com/yudachi/comment/repository/SensitiveRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-comment/src/main/java/com/yudachi/comment/repository/UnSensitiveRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-comment/src/main/java/com/yudachi/comment/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-comment/src/main/java/com/yudachi/comment/service/CommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-comment/src/main/java/com/yudachi/comment/utils/NaiveBayesian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-comment/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/exception/CustomException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/exception/ExceptionCast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/exception/ExceptionCatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/model/request/video/VideoForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/model/response/Comment/CommentResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/model/response/CommentCode/CommentCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/model/response/CommonCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/model/response/Media/CategoryResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/model/response/Media/CommercialResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/model/response/Media/CommercialWayResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/model/response/Media/LanguageResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/model/response/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/model/response/ResponseResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/model/response/ResultCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/model/response/Search/SearchResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/model/response/SearchCode/SearchCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/model/response/UserCode/UserCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-common/src/main/java/com/yudachi/model/response/VideoCode/VideoCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-eureka/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-eureka/src/main/java/com/yudachi/eureka/EurekaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-eureka/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/java/com/yudachi/log/LogApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/java/com/yudachi/log/controller/LogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/java/com/yudachi/log/entity/BaseRecommender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/java/com/yudachi/log/entity/LFMUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/java/com/yudachi/log/entity/LFMVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/java/com/yudachi/log/entity/RateMoreRecentlyVideos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/java/com/yudachi/log/entity/StreamRecs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/java/com/yudachi/log/entity/TagsBaseRecommender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/java/com/yudachi/log/entity/UserRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/java/com/yudachi/log/entity/Video.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/java/com/yudachi/log/entity/VideoTagsRecs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/java/com/yudachi/log/repository/LFMUserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/java/com/yudachi/log/repository/LFMVideoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/java/com/yudachi/log/repository/VideoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/java/com/yudachi/log/service/LogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-log/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/MediaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/controller/MediaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/entity/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/entity/Commercial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/entity/CommercialWay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/entity/Danmu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/entity/Language.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/entity/Video.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/repository/CategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/repository/CommercialRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/repository/CommercialWayRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/repository/DanmuRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/repository/LanguageRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/repository/VideoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/service/DanmuService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/java/com/yudachi/media/service/MediaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-media/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-search/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-search/src/main/java/com/yudachi/search/SearchApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-search/src/main/java/com/yudachi/search/controller/SearchController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-search/src/main/java/com/yudachi/search/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-search/src/main/java/com/yudachi/search/entity/Video.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-search/src/main/java/com/yudachi/search/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-search/src/main/java/com/yudachi/search/repository/VideoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-search/src/main/java/com/yudachi/search/service/SearchService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-search/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload-processor/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload-processor/src/main/java/com/yudachi/processor/ProcessorApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload-processor/src/main/java/com/yudachi/processor/config/RabbitMQConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload-processor/src/main/java/com/yudachi/processor/entity/M3u8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload-processor/src/main/java/com/yudachi/processor/entity/Video.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload-processor/src/main/java/com/yudachi/processor/listener/UploadListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload-processor/src/main/java/com/yudachi/processor/mq/UploadProcessTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload-processor/src/main/java/com/yudachi/processor/repository/M3u8Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload-processor/src/main/java/com/yudachi/processor/repository/VideoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload-processor/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload/src/main/java/com/yudachi/upload/UploadApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload/src/main/java/com/yudachi/upload/config/FdfsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload/src/main/java/com/yudachi/upload/config/FdfsConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload/src/main/java/com/yudachi/upload/controller/UploadController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload/src/main/java/com/yudachi/upload/entity/LFMVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload/src/main/java/com/yudachi/upload/entity/Video.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload/src/main/java/com/yudachi/upload/entity/VideoMore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload/src/main/java/com/yudachi/upload/repository/LFMVideoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload/src/main/java/com/yudachi/upload/repository/UploadRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload/src/main/java/com/yudachi/upload/repository/VideoInfoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload/src/main/java/com/yudachi/upload/service/UploadService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload/src/main/java/com/yudachi/upload/util/FdfsUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-upload/src/main/resources/bilibili.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-user/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-user/src/main/java/com/yudachi/user/UserApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-user/src/main/java/com/yudachi/user/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-user/src/main/java/com/yudachi/user/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-user/src/main/java/com/yudachi/user/entity/LFMUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-user/src/main/java/com/yudachi/user/entity/LFMVideo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-user/src/main/java/com/yudachi/user/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-user/src/main/java/com/yudachi/user/repository/LFMUserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-user/src/main/java/com/yudachi/user/repository/LFMVideoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-user/src/main/java/com/yudachi/user/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-user/src/main/java/com/yudachi/user/service/SmsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-user/src/main/java/com/yudachi/user/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-user/src/main/java/com/yudachi/user/utils/GenerateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-user/src/main/java/com/yudachi/user/utils/SMSUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-user/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-utils/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-utils/src/main/java/com/yudachi/utils/HLSVideoUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-utils/src/main/java/com/yudachi/utils/IdWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-utils/src/main/java/com/yudachi/utils/Mp4VideoUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/bilibili-utils/src/main/java/com/yudachi/utils/VideoUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BilibiliEnd/pom.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/recommender/target/" />
+    <ignored path="$PROJECT_DIR$/recommender/StatisticsRecommender/target/" />
+    <ignored path="$PROJECT_DIR$/recommender/LFMRecommender/target/" />
+    <ignored path="$PROJECT_DIR$/recommender/StreamingRecommender/target/" />
+    <ignored path="$PROJECT_DIR$/recommender/DataLoader/target/" />
+    <ignored path="$PROJECT_DIR$/recommender/KafkaStream/target/" />
+    <ignored path="$PROJECT_DIR$/recommender/ContentRecommender/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommender/ContentRecommender/src/main/scala/ContentRecommender.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommender/KafkaStream/src/main/java/com/yudachi/kafkastream/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="49">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/recommender/StreamingRecommender/src/main/scala/com/yudachi/streaming/StreamingRecommender.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommender/StatisticsRecommender/src/main/scala/StatisticsRecommender.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1222">
+              <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recommender/LFMRecommender/src/main/scala/LFMRecommender.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="62" column="3" lean-forward="true" selection-start-line="62" selection-start-column="3" selection-end-line="62" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SparkContext</find>
+      <find>uid</find>
+      <find>VideoRating</find>
+      <find>VideoRa</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/recommender/pom.xml" />
+        <option value="$PROJECT_DIR$/recommender/StatisticsRecommender/pom.xml" />
+        <option value="$PROJECT_DIR$/recommender/LFMRecommender/pom.xml" />
+        <option value="$PROJECT_DIR$/recommender/LFMRecommender/src/main/scala/ALSTrainer.scala" />
+        <option value="$PROJECT_DIR$/recommender/StreamingRecommender/pom.xml" />
+        <option value="$PROJECT_DIR$/recommender/LFMRecommender/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/recommender/DataLoader/pom.xml" />
+        <option value="$PROJECT_DIR$/recommender/KafkaStream/pom.xml" />
+        <option value="$PROJECT_DIR$/recommender/KafkaStream/src/main/java/com/yudachi/kafkastream/MyEventTimeExtractor.java" />
+        <option value="$PROJECT_DIR$/recommender/KafkaStream/src/main/java/com/yudachi/kafkastream/LogProcessor.java" />
+        <option value="$PROJECT_DIR$/recommender/StreamingRecommender/src/main/scala/com/yudachi/streaming/StreamingRecommender.scala" />
+        <option value="$PROJECT_DIR$/recommender/KafkaStream/src/main/java/com/yudachi/kafkastream/Application.java" />
+        <option value="$PROJECT_DIR$/recommender/StatisticsRecommender/src/main/scala/StatisticsRecommender.scala" />
+        <option value="$PROJECT_DIR$/recommender/DataLoader/src/main/scala/com/yudachi/dataLoader/DataLoader.scala" />
+        <option value="$PROJECT_DIR$/recommender/LFMRecommender/src/main/scala/LFMRecommender.scala" />
+        <option value="$PROJECT_DIR$/recommender/ContentRecommender/pom.xml" />
+        <option value="$PROJECT_DIR$/recommender/ContentRecommender/src/main/scala/ContentRecommender.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\xll_repository" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="StreamingRecommender" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="StreamingRecommender" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="88" />
+    <option name="y" value="82" />
+    <option name="width" value="1575" />
+    <option name="height" value="995" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bilibili-recommendSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-recommendSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-recommendSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-recommendSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="recommender" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-recommendSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-recommendSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="recommender" type="462c0819:PsiDirectoryNode" />
+              <item name="KafkaStream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-recommendSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-recommendSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="recommender" type="462c0819:PsiDirectoryNode" />
+              <item name="KafkaStream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-recommendSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-recommendSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="recommender" type="462c0819:PsiDirectoryNode" />
+              <item name="KafkaStream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-recommendSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-recommendSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="recommender" type="462c0819:PsiDirectoryNode" />
+              <item name="KafkaStream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-recommendSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-recommendSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="recommender" type="462c0819:PsiDirectoryNode" />
+              <item name="KafkaStream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kafkastream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-recommendSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-recommendSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="recommender" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamingRecommender" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-recommendSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-recommendSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="recommender" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamingRecommender" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-recommendSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-recommendSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="recommender" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamingRecommender" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-recommendSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-recommendSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="recommender" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamingRecommender" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-recommendSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-recommendSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="recommender" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamingRecommender" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="streaming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-recommendSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-recommendSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="recommender" type="462c0819:PsiDirectoryNode" />
+              <item name="StreamingRecommender" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAWorkSpace\bilibili-recommendSystem\recommender\ContentRecommender\src\main\resources" />
+      <recent name="D:\IDEAWorkSpace\bilibili-recommendSystem\recommender\KafkaStream\src\main\resources" />
+      <recent name="D:\IDEAWorkSpace\bilibili-recommendSystem\recommender\DataLoader\src\main\resources" />
+      <recent name="D:\IDEAWorkSpace\bilibili-recommendSystem\recommender\StreamingRecommender\src\main\resources" />
+      <recent name="D:\IDEAWorkSpace\bilibili-recommendSystem\recommender\LFMRecommender\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StreamingRecommender">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yudachi.kafkastream.Application" />
+      <module name="KafkaStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yudachi.kafkastream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContentRecommender" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ContentRecommender" />
+      <module name="ContentRecommender" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LFMRecommender" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="LFMRecommender" />
+      <module name="LFMRecommender" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatisticsRecommender" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="StatisticsRecommender" />
+      <module name="StatisticsRecommender" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamingRecommender" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.yudachi.streaming.StreamingRecommender" />
+      <module name="StreamingRecommender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yudachi.streaming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamingRecommender" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.ContentRecommender" />
+        <item itemvalue="Application.LFMRecommender" />
+        <item itemvalue="Application.StatisticsRecommender" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7860426d-c307-4cef-ac8a-e333d1b3d716" name="默认更改列表" comment="" />
+      <created>1576400879923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576400879923</updated>
+      <workItem from="1576400884218" duration="7349000" />
+      <workItem from="1576454731726" duration="16925000" />
+      <workItem from="1576488605378" duration="40013000" />
+      <workItem from="1576587872968" duration="8963000" />
+      <workItem from="1576627613199" duration="11403000" />
+      <workItem from="1576650970249" duration="2610000" />
+      <workItem from="1576669682414" duration="1478000" />
+      <workItem from="1576676429873" duration="3451000" />
+      <workItem from="1576714483628" duration="370000" />
+      <workItem from="1576754721552" duration="2108000" />
+      <workItem from="1576811813062" duration="677000" />
+      <workItem from="1576839805516" duration="1826000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="97173000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="71" y="66" width="1260" height="796" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2046589" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="设计器" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49915397" weight="0.5301205" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.61221373" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32379517" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3277439" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500846" side_tool="true" weight="0.6087571" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32931727" />
+      <window_info anchor="bottom" id="JProfiler" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="调试" order="15" />
+      <window_info anchor="bottom" id="Tail" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3291032" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="调色板" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32430145" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="设计器" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4631861" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.329582" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32931727" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32931727" />
+      <window_info anchor="bottom" id="JProfiler" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="调试" order="15" />
+      <window_info anchor="bottom" id="Tail" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3294509" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="调色板" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/recommender/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/StatisticsRecommender/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/StatisticsRecommender/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/LFMRecommender/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.1.1/spark-mllib_2.11-2.1.1.jar!/org/apache/spark/mllib/recommendation/Rating.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.1.1/spark-sql_2.11-2.1.1-sources.jar!/org/apache/spark/sql/Dataset.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-828">
+          <caret line="2492" column="6" selection-start-line="2492" selection-start-column="6" selection-end-line="2492" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/LFMRecommender/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="116" selection-start-line="3" selection-start-column="116" selection-end-line="3" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/StreamingRecommender/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/DataLoader/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/DataLoader/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="60" column="27" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/KafkaStream/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/KafkaStream/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="35" column="62" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/KafkaStream/src/main/java/com/yudachi/kafkastream/MyEventTimeExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/StreamingRecommender/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-213">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/LFMRecommender/src/main/scala/ALSTrainer.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/DataLoader/src/main/scala/com/yudachi/dataLoader/DataLoader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3591">
+          <caret line="143" column="8" selection-start-line="143" selection-start-column="8" selection-end-line="143" selection-end-column="8" />
+          <folding>
+            <element signature="e#32#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/ContentRecommender/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/ContentRecommender/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/KafkaStream/src/main/java/com/yudachi/kafkastream/LogProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/StatisticsRecommender/src/main/scala/StatisticsRecommender.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1222">
+          <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/LFMRecommender/src/main/scala/LFMRecommender.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="62" column="3" lean-forward="true" selection-start-line="62" selection-start-column="3" selection-end-line="62" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/ContentRecommender/src/main/scala/ContentRecommender.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/KafkaStream/src/main/java/com/yudachi/kafkastream/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommender/StreamingRecommender/src/main/scala/com/yudachi/streaming/StreamingRecommender.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>StreamingRecommender</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

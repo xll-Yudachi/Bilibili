@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ESLintProjectComponent">
+    <option name="eslintRcFile" value=".eslintrc.js" />
+    <option name="eslintExecutable" value="D:\WebStormWorkSpace\哔哩哔哩\bilibili-Nuxt\node_modules\.bin\eslint.cmd" />
+    <option name="nodeInterpreter" value="D:\Nodejs\node.exe" />
+    <option name="pluginEnabled" value="true" />
+  </component>
+</project>

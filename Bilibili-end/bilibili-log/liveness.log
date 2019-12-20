@@ -1,0 +1,4 @@
+[INFO] [2019-12-20 19:29:25] com.yudachi.log.service.LogService.changeUserRecord(95) | VIDEO_RATING_PREFIX:3000|503|3.8|1576841364055
+[INFO] [2019-12-20 19:29:27] com.yudachi.log.service.LogService.changeUserRecord(95) | VIDEO_RATING_PREFIX:3000|503|4.3999999999999995|1576841367268
+[INFO] [2019-12-20 19:29:28] com.yudachi.log.service.LogService.changeUserRecord(95) | VIDEO_RATING_PREFIX:3000|503|4.8|1576841368299
+[INFO] [2019-12-20 19:29:29] com.yudachi.log.service.LogService.changeUserRecord(95) | VIDEO_RATING_PREFIX:3000|503|5.0|1576841369432

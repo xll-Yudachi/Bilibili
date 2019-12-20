@@ -1,0 +1,138 @@
+.bili-foot {
+    margin: 0 auto;
+    width: 100%;
+    font-size: 12px;
+    padding: 20px 0;
+    bottom: 0;
+    background-color: #f6f9fa;
+}
+
+.foot_span {
+    font-size: 16px;
+    color: #999;
+    display: block;
+    height: 20px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+}
+
+.foot-ul {
+    height: 65px;
+    width: 435px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.foot-ul a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    display: inline-block;
+    width: 115px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+
+.footer-wrap {
+    margin: 0 auto;
+    width: 1160px !important;
+    max-width: 1414px;
+    min-width: 999px;
+    display: flex;
+}
+
+.foot-div-1 {
+    border-right: 1px dashed #cccccc;
+}
+
+.foot-div-2 {
+    border-right: 1px dashed #cccccc;
+}
+
+.download-target a {
+    position: relative;
+    text-decoration: none;
+    color: black;
+    margin-left: 55px;
+    font-size: 14px;
+    display: inline-block;
+}
+
+.pcDown {
+    position: relative;
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    left: 40px;
+    top: 5px;
+    background: url("../images/icons.png") -1020px -185px;
+}
+
+.sinaWb {
+    position: relative;
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    left: 40px;
+    top: 5px;
+    background: url("../images/icons.png") -1020px -315px;
+}
+
+.weChat {
+    position: relative;
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    left: 40px;
+    top: 5px;
+    background: url("../images/icons.png") -1020px -60px;
+}
+
+.target-link {
+    display: inline-block;
+    left: -15px;
+    width: 80px;
+    top: 5px;
+}
+
+.target-div {
+    float: left;
+    position: relative;
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+}
+
+.foot-content {
+    width: 100%;
+}
+
+.txt-con a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer-wrap-content {
+    margin-top: 40px;
+}
+
+.bg1 {
+    display: inline-block;
+    width: 18px;
+    height: 20px;
+    background: url("../images/icons.png") -1368px -84px;
+}
+
+.bg2 {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("../images/hz_icon.png") -41px 0px;
+}
+
+.bg3 {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("../images/hz_icon.png") -18px -3px;
+}

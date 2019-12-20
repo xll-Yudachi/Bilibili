@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1dfbdd8-247f-4416-9a59-c57e751e4f20" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UmU5gsWgtuBaW49R6ILIiLQXv9" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebStormWorkSpace\哔哩哔哩\bilibili-Nuxt\pages\video" />
+      <recent name="D:\WebStormWorkSpace\哔哩哔哩\bilibili-Nuxt\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebStormWorkSpace\哔哩哔哩\bilibili-Nuxt\static\images" />
+      <recent name="D:\WebStormWorkSpace\哔哩哔哩\bilibili-Nuxt\layouts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1dfbdd8-247f-4416-9a59-c57e751e4f20" name="默认更改列表" comment="" />
+      <created>1575961082802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575961082802</updated>
+      <workItem from="1575961084068" duration="31346000" />
+      <workItem from="1576059930951" duration="7946000" />
+      <workItem from="1576135108236" duration="15000" />
+      <workItem from="1576137737640" duration="142000" />
+      <workItem from="1576151554209" duration="2125000" />
+      <workItem from="1576195918257" duration="13649000" />
+      <workItem from="1576297111950" duration="2066000" />
+      <workItem from="1576304227297" duration="4019000" />
+      <workItem from="1576378995068" duration="5504000" />
+      <workItem from="1576398732246" duration="814000" />
+      <workItem from="1576632208173" duration="2581000" />
+      <workItem from="1576653190153" duration="4388000" />
+      <workItem from="1576669652797" duration="3159000" />
+      <workItem from="1576714230176" duration="6851000" />
+      <workItem from="1576746468735" duration="4224000" />
+      <workItem from="1576811316249" duration="1255000" />
+      <workItem from="1576837266342" duration="104000" />
+      <workItem from="1576837856015" duration="1267000" />
+      <workItem from="1576840272231" duration="939000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

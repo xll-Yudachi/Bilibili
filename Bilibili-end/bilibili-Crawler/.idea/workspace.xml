@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3315e71-f50e-4014-970c-942a0fe169a5" name="默认更改列表" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/JDInport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="63" column="39" lean-forward="true" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/url2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-486">
+              <caret line="542" column="36" lean-forward="true" selection-start-line="542" selection-start-column="36" selection-end-line="542" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>https://www.bilibili.com/video/av78856725</find>
+      <find>high</find>
+      <find>https://www.bilibili.com/video/av71875468</find>
+      <find>https://www.bilibili.com/video/av79087504</find>
+      <find>https://www.bilibili.com/video/av78985619</find>
+      <find>https://www.bilibili.com/video/av78486370</find>
+      <find>rank</find>
+      <find>coin_num</find>
+      <find>highestRank</find>
+      <find>https://www.bilibili.com/video/av79087921</find>
+      <find>https://www.bilibili.com/video/av79033145</find>
+      <find>https://www.bilibili.com/video/av78737025</find>
+      <find>https://www.bilibili.com/video/av78887878</find>
+      <find>https://www.bilibili.com/video/av78022340</find>
+      <find>https://www.bilibili.com/video/av79072412</find>
+      <find>https://www.bilibili.com/video/av78878901</find>
+      <find>https://www.bilibili.com/video/av78991859</find>
+      <find>https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;wq=%E7%BE%8E%E5%A6%86&amp;stock=1&amp;page=12&amp;s=182&amp;click=0</find>
+      <find>https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;wq=%E7%BE%8E%E5%A6%86&amp;stock=1&amp;page=21&amp;s=182&amp;click=0</find>
+      <find>https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;wq=%E7%BE%8E%E5%A6%86&amp;stock=1&amp;page=22&amp;s=182&amp;click=0</find>
+      <find>https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;wq=%E7%BE%8E%E5%A6%86&amp;stock=1&amp;page=25&amp;s=182&amp;click=0</find>
+      <find>https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;wq=%E7%BE%8E%E5%A6%86&amp;stock=1&amp;page=30&amp;s=182&amp;click=0</find>
+      <find>https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;wq=%E7%BE%8E%E5%A6%86&amp;stock=1&amp;page=37&amp;s=182&amp;click=0</find>
+      <find>https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;wq=%E7%BE%8E%E5%A6%86&amp;stock=1&amp;page=38&amp;s=182&amp;click=0</find>
+      <find>https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;wq=%E7%BE%8E%E5%A6%86&amp;stock=1&amp;page=41&amp;s=182&amp;click=0</find>
+      <find>https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;wq=%E7%BE%8E%E5%A6%86&amp;stock=1&amp;page=43&amp;s=182&amp;click=0</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;wq=%E7%BE%8E%E5%A6%86&amp;stock=1&amp;page=13&amp;s=182&amp;click=0</replace>
+      <replace>https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;wq=%E7%BE%8E%E5%A6%86&amp;stock=1&amp;page=22&amp;s=182&amp;click=0</replace>
+      <replace>https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;wq=%E7%BE%8E%E5%A6%86&amp;stock=1&amp;page=26&amp;s=182&amp;click=0</replace>
+      <replace>https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;wq=%E7%BE%8E%E5%A6%86&amp;stock=1&amp;page=31&amp;s=182&amp;click=0</replace>
+      <replace>https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;wq=%E7%BE%8E%E5%A6%86&amp;stock=1&amp;page=39&amp;s=182&amp;click=0</replace>
+      <replace>https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A6%86&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;vt=2&amp;wq=%E7%BE%8E%E5%A6%86&amp;stock=1&amp;page=44&amp;s=182&amp;click=0</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/config/config.ini" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/BilibiliCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/BilibiliSearchCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/util/BilibiliRandom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/BilibiliIndexCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/BilibiliLanguageCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/BilibiliCopyrightCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/IdWorker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/url2" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/BilibiliItemCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/url.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/ImportDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/util/UUIDUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/JD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/CollectUrl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/util/PriceRemoveMark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/ImportJD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/JDInport.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/url2.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\xll_repository" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="337" />
+    <option name="y" value="41" />
+    <option name="width" value="1555" />
+    <option name="height" value="997" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bilibili-crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-Crawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-Crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-Crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-Crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bilibili-crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bilibili-Crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yudachi" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NB" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yudachi.bilibili" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JDInport">
+    <configuration name="CollectUrl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yudachi.bilibili.CollectUrl" />
+      <module name="bilibili-Crawler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yudachi.bilibili.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImportJD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yudachi.bilibili.ImportJD" />
+      <module name="bilibili-Crawler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yudachi.bilibili.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yudachi.bilibili.JD" />
+      <module name="bilibili-Crawler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yudachi.bilibili.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDInport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yudachi.bilibili.JDInport" />
+      <module name="bilibili-Crawler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yudachi.bilibili.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yudachi.test" />
+      <module name="bilibili-Crawler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yudachi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JDInport" />
+        <item itemvalue="Application.ImportJD" />
+        <item itemvalue="Application.CollectUrl" />
+        <item itemvalue="Application.JD" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3315e71-f50e-4014-970c-942a0fe169a5" name="默认更改列表" comment="" />
+      <created>1575254382982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575254382982</updated>
+      <workItem from="1575254387244" duration="10934000" />
+      <workItem from="1575615876560" duration="4438000" />
+      <workItem from="1575937095621" duration="1818000" />
+      <workItem from="1576402047093" duration="11270000" />
+      <workItem from="1576421802824" duration="1940000" />
+      <workItem from="1576454678334" duration="1366000" />
+      <workItem from="1576463739511" duration="1343000" />
+      <workItem from="1576469998126" duration="1247000" />
+      <workItem from="1576477909816" duration="3498000" />
+      <workItem from="1576760060615" duration="5876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43730000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16756032" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="设计器" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5153949" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32902297" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32841823" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="JProfiler" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="调试" order="13" weight="0.3294964" />
+      <window_info anchor="bottom" id="Tail" order="14" />
+      <window_info anchor="bottom" id="Terminal" order="15" weight="0.32902297" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="调色板" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="66" selection-start-line="2" selection-start-column="66" selection-end-line="2" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/BilibiliCopyrightCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/BilibiliLanguageCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="46" column="97" selection-start-line="46" selection-start-column="97" selection-end-line="46" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/BilibiliSearchCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="67" column="37" lean-forward="true" selection-start-line="67" selection-start-column="37" selection-end-line="67" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2028#2036#0" expanded="true" />
+            <element signature="e#2223#2224#0" expanded="true" />
+            <element signature="e#2294#2295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/IdWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3096#3097#0" expanded="true" />
+            <element signature="e#3145#3146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/BilibiliIndexCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="78" column="30" selection-start-line="78" selection-start-column="30" selection-end-line="78" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/util/UUIDUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/url.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="1477" column="41" selection-start-line="1477" selection-start-column="41" selection-end-line="1477" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/util/BilibiliRandomUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/CollectUrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1294">
+          <caret line="61" column="165" selection-start-line="61" selection-start-column="165" selection-end-line="61" selection-end-column="165" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1805#1806#0" expanded="true" />
+            <element signature="e#1876#1877#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/JD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="21" column="81" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/util/PriceRemoveMark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/ImportDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="31" column="42" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="31" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/BilibiliItemCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4590">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/ImportJD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="26" column="48" lean-forward="true" selection-start-line="20" selection-end-line="26" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3193#3194#0" expanded="true" />
+            <element signature="e#11060#11068#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/JDInport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="63" column="39" lean-forward="true" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yudachi/bilibili/url2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="542" column="36" lean-forward="true" selection-start-line="542" selection-start-column="36" selection-end-line="542" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bilibili-Crawler</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

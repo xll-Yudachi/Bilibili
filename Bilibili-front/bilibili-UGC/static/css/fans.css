@@ -1,0 +1,299 @@
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: #222222;
+}
+
+a:focus, a:hover {
+  color: #222222;
+}
+
+ol, ul ,li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+body button, body input, body textarea {
+  outline: none;
+}
+
+p {
+  margin: 0;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+  margin: 0;
+}
+
+.fans-link-top-container {
+  position: relative;
+  border-bottom: 1px solid #e7e7e7;
+  text-align: center;
+  background: #fff;
+  width: 100%;
+  z-index: 8;
+  top: 2px;
+}
+
+.fans-link-top-container .link-top-item {
+  display: inline-block;
+  margin: 0 35px;
+  font-size: 14px;
+  min-width: 71px;
+  text-align: center;
+  user-select: none;
+  line-height: 48px;
+  border-bottom: 1px solid transparent;
+  color: #222;
+  position: relative;
+  height: 50px;
+}
+
+.fans-link-top-container .link-top-item-active {
+  border-bottom-color: #00a1d6;
+  color: #00a1d6;
+}
+
+.fans-body {
+  position: relative;
+  padding: 0 0 0 243px;
+  width: 100%;
+  min-width: 940px;
+  height: 100%;
+  z-index: 1000;
+}
+
+.fans-data-center {
+  width: 980px;
+  margin: 50px auto 0px auto;
+  height: 1160px;
+}
+
+.fans-data-header{
+  display: inline-block;
+  width: 980px;
+  height: 80px;
+  text-align: left;
+  padding-bottom: 16px;
+  border-bottom: 1px solid rgb(231, 231, 238);
+}
+
+.fans-data-header .title{
+  display: inline-block;
+  font-weight: 400;
+  font-size: 20px;
+  color: #222;
+}
+
+.fans-data-header p{
+  margin-top: 16px;
+  color: rgb(117, 117, 117);
+  font-size: 14px;
+}
+
+.medal-form{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.medal-item{
+  width: 100%;
+  text-align: left;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  padding: 24px 0px;
+  line-height: 22px;
+}
+
+.medal-item-tip{
+  width: 12%;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgb(34, 34, 34);
+}
+
+.medal-item .red{
+  color: rgb(250, 64, 64);
+  font-size: 14px;
+  width: auto;
+  display: inline-block;
+}
+
+.tooltip-helper{
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip-els{
+  font-size: 14px;
+  width: auto;
+  display: inline-block;
+}
+
+.minispan{
+  font-size: 12px;
+  color: rgb(153, 162, 170);
+}
+
+.tip-icon{
+  color: rgb(255, 255, 255);
+  height: 14px;
+  width: 14px;
+  text-align: center;
+  display: inline-block;
+  margin-left: 5px;
+  background: rgb(153, 162, 170);
+  border-radius: 50%;
+  font: 13px/1 -apple-system,BlinkMacSystemFont,Helvetica Neue,Helvetica,Arial,PingFang SC,Hiragino Sans GB,Microsoft YaHei,sans-serif;
+  position: relative;
+  top: -1px;
+}
+
+.tooltip-bubble{
+  left: 209px;
+  top: -63px;
+  display: none;
+  font-size: 14px;
+  width: auto;
+  position: absolute;
+  padding: 0 8px 0 8px;
+  line-height: 1.5;
+  z-index: 2;
+}
+
+.tooltip-content{
+  font-size: 14px;
+  width: auto;
+  display: inline-block;
+}
+
+.medal-tooltip-arrow{
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  bottom: 0;
+}
+
+.right {
+  float: right;
+}
+
+.medal-tooltip-inner{
+  min-height: 34px;
+  padding: 8px 12px;
+  color: #666;
+  text-align: left;
+  text-decoration: none;
+  background: #fffcdf;
+  border: 1px solid #feefd0;
+  border-radius: 4px;
+  white-space: nowrap;
+  cursor: text;
+}
+
+.medal-tooltip-title{
+  font-size: 14px;
+  color: #222;
+  margin-bottom: 5px;
+}
+
+.page-tip{
+  margin-top: 40px;
+  text-align: left;
+  font-size: 12px;
+  color: rgb(153, 162, 170);
+  line-height: 20px;
+}
+
+.page-tip .help{
+  color: #00a1d6;
+  cursor: pointer;
+}
+
+.page-tip .help:hover{
+  color: #4fbdea;
+}
+
+.medal-list{
+  margin-top: 48px;
+  position: relative;
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+}
+
+.part{
+  width: 475px;
+}
+
+.medal-list .title {
+  text-align: left;
+  font-weight: 400;
+  font-size: 20px;
+  color: rgb(34, 34, 34);
+  line-height: 56px;
+  width: 100%;
+  height: 56px;
+}
+
+.medal-list .part .content {
+  text-align: center;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(229, 233, 239);
+  border-image: initial;
+  border-radius: 4px;
+}
+
+.empty-wrp{
+  height: 100%;
+  padding: 20px 0px;
+}
+
+.empty-wrp .text {
+  text-align: center;
+  font-size: 14px;
+  padding-top: 20px;
+  width: 100%;
+}
+
+.medal-list .part .content li {
+  display: flex;
+}
+
+.medal-list .part .content li div {
+  -webkit-box-flex: 1;
+  display: inline-block;
+  font-size: 14px;
+  color: rgb(109, 117, 122);
+  line-height: 50px;
+  flex: 1 1 0%;
+}
+
+.medal-list .part .content li .nike {
+  -webkit-box-flex: 2;
+  text-align: left;
+  flex: 2 1 0%;
+}
+
+.medal-list .part .content li div {
+  -webkit-box-flex: 1;
+  display: inline-block;
+  font-size: 14px;
+  color: rgb(109, 117, 122);
+  line-height: 50px;
+  flex: 1 1 0%;
+}
+
+.fans-footer{
+  position: relative;
+  padding-left: 240px;
+  top: -30px;
+}
+
+.tac{
+  height: 1195px;
+}

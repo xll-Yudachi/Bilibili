@@ -1,0 +1,374 @@
+a{
+  text-decoration: none;
+  cursor: pointer;
+  color: #222222;
+}
+
+a:focus, a:hover {
+  color: #222222;
+}
+
+ol, ul ,li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+body button, body input, body textarea {
+  outline: none;
+}
+
+p {
+  margin: 0;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+  margin: 0;
+}
+
+.clearfix {
+  zoom: 1;
+}
+
+.clearfix:after, .clearfix:before {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.dataAnalysis-link-top-container {
+  position: relative;
+  border-bottom: 1px solid #e7e7e7;
+  text-align: center;
+  background: #fff;
+  width: 100%;
+  z-index: 8;
+  top: 2px;
+}
+
+.dataAnalysis-link-top-container .link-top-item {
+  display: inline-block;
+  margin: 0 35px;
+  font-size: 14px;
+  min-width: 71px;
+  text-align: center;
+  user-select: none;
+  line-height: 48px;
+  border-bottom: 1px solid transparent;
+  color: #222;
+  position: relative;
+  height: 50px;
+}
+
+.dataAnalysis-link-top-container .link-top-item-active {
+  border-bottom-color: #00a1d6;
+  color: #00a1d6;
+}
+
+.dataAnalysis-body {
+  position: relative;
+  padding: 0 0 0 243px;
+  width: 100%;
+  min-width: 940px;
+  height: 100%;
+  z-index: 1000;
+}
+
+.dataAnalysis-data-center {
+  width: 980px;
+  margin: 50px auto 0px auto;
+  height: 1400px;
+}
+
+.dataAnalysis-title {
+  width: 980px;
+  line-height: 20px;
+  font-size: 18px;
+  display: inline-block;
+}
+
+.title-group .dataAnalysis-active:after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 22px;
+  left: 50%;
+  width: 0;
+  height: 0;
+  transform: translateX(-50%);
+  border-left: 3px solid transparent;
+  border-right: 3px solid transparent;
+  border-bottom: 3px solid #00a1d6;
+}
+
+.dataAnalysis-custom {
+  float: left;
+  display: inline-block;
+}
+
+.Title {
+  padding: 10px 0;
+  font-size: 18px;
+  color: #222222;
+  display: inline-block;
+}
+
+.title-group {
+  display: inline-block;
+}
+
+.title-group-item {
+  position: relative;
+  display: inline-block;
+  height: 25px;
+  line-height: 25px;
+  font-size: 14px;
+  cursor: pointer;
+  margin: 0 8px -8px;
+  transition: background-color .2s ease, color .2s ease;
+}
+
+.dataAnalysis-active {
+  border-bottom: 1px solid #00a1d6;
+  color: #00a1d6;
+}
+
+.dataAnalysis-time {
+  float: right;
+  height: 40px;
+  margin-right: 10px;
+  font-size: 12px;
+  color: #99a2aa;
+  line-height: 40px;
+}
+
+.genderDistribution-body{
+  display: inline-block;
+  width: 449px;
+  height: 245px;
+}
+
+.ageDistribution-body{
+  display: inline-block;
+  width: 449px;
+  height: 245px;
+}
+
+.watchWayDistribution-body{
+  display: inline-block;
+  width: 449px;
+  height: 245px;
+  position: relative;
+  left: -225px;
+  top: 40px;
+}
+
+.legend-description{
+  position: relative;
+  left: 365px;
+  top: -161px;
+  user-select: none;
+  text-align: left;
+  width: 400px;
+}
+
+.legend-description p {
+  line-height: 24px;
+  font-size: 14px;
+  color: #b5b7bc;
+  cursor: default;
+}
+
+.rank-content{
+  margin-top: 25px;
+  padding: 0 45px;
+  width: 100%;
+  display: inline-block;
+  height: 175px;
+}
+
+.rank-item{
+  display: inline-block;
+  float: left;
+  margin-right: 56px;
+  width: 157px;
+  height: 149px;
+  text-align: left;
+}
+
+.rank-item:first-child{
+  width: 415px;
+  height: 152px;
+}
+
+.rank-item:last-child{
+  margin-right: 0px;
+}
+
+.rank-progress-item:first-child{
+  margin-top: 0;
+}
+
+.rank-progress-item{
+  margin-top: 37px;
+  white-space: nowrap;
+}
+
+.progress-item-badge{
+  margin-right: 20px;
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+  line-height: 26px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
+  border-radius: 12px;
+  border-bottom-right-radius: 0;
+}
+
+.progress-item-badge-1{
+  background-color: #ffc400;
+}
+
+.progress-item-badge-2{
+  background-color: #9bb4ca;
+}
+
+.progress-item-badge-3{
+  background-color: #ffa726;
+}
+
+.progress-item-title{
+  display: inline-block;
+  vertical-align: middle;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 80px;
+  margin-right: 5px;
+  font-size: 16px;
+  color: #2b2c2e;
+}
+
+.progress-item-inner{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.y-progress-bar{
+  display: inline-block;
+  width: 232px;
+  height: 12px;
+  background-color: #f5f5f5;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.progress-bar-inner{
+  width: 19%;
+  height: 100%;
+  background-color: #4bc7f0;
+  transition: width .2s ease-in-out;
+}
+
+.progress-text{
+  display: inline-block;
+  width: 38px;
+  margin-left: 14px;
+  font-size: 18px;
+  color: #00a1d6;
+  text-align: right;
+}
+
+.dataAnalysis-rank-title{
+  line-height: 20px;
+  font-size: 18px;
+  height: 20px;
+}
+
+.dataAnalysis-rank-title p{
+  display: inline-block;
+  font-size: 15px;
+  color: #2b2c2e;
+  float: left;
+}
+
+
+.dataAnalysis-rank-title small {
+  display: inline-block;
+  margin-left: 20px;
+  font-size: 12px;
+  color: #99a2aa;
+  float: left;
+}
+
+.percentage-progress-item{
+  margin-top: 23px;
+  font-size: 0;
+  white-space: nowrap;
+}
+
+.percentage-progress-item:first-child{
+  margin-top: 0;
+}
+
+.percentage-item-badge{
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 14px;
+  text-align: center;
+  border-radius: 9px;
+  border-bottom-right-radius: 0;
+  background-color: #99a2aa;
+  margin-right: 20px;
+  vertical-align: middle;
+}
+
+.percentage-item-title{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: inline-block;
+  vertical-align: middle;
+  width: 80px;
+  margin-right: 5px;
+  font-size: 16px;
+  text-align: left;
+}
+
+.percentage-item-number{
+  display: inline-block;
+  width: 32px;
+  font-size: 16px;
+  color: #00a1d6;
+  vertical-align: middle;
+  text-align: right;
+}
+
+.dataAnalysis-touristsAttributes{
+  display: inline-block;
+  height: 845px;
+}
+
+.dataAnalysis-touristsContents{
+  display: inline-block;
+}
+
+.normal-empty{
+  line-height: 200px;
+  font-size: 14px;
+  text-align: center;
+  color: #b5b7bc;
+  display: inline-block;
+  width: 980px;
+  height: 200px;
+}

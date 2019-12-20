@@ -1,0 +1,9 @@
+[INFO] [2019-12-18 15:51:11] com.yudachi.log.service.LogService.changeUserRecord(42) | VIDEO_RATING_PREFIX:3000|502|5.0|1576655471378
+[INFO] [2019-12-18 15:53:13] com.yudachi.log.service.LogService.changeUserRecord(42) | VIDEO_RATING_PREFIX:3000|503|3.8|1576655593345
+[INFO] [2019-12-18 15:53:13] com.yudachi.log.service.LogService.changeUserRecord(42) | VIDEO_RATING_PREFIX:3000|503|4.3999999999999995|1576655593964
+[INFO] [2019-12-18 15:53:14] com.yudachi.log.service.LogService.changeUserRecord(42) | VIDEO_RATING_PREFIX:3000|503|4.8|1576655594601
+[INFO] [2019-12-18 15:53:15] com.yudachi.log.service.LogService.changeUserRecord(42) | VIDEO_RATING_PREFIX:3000|503|5.0|1576655595658
+[INFO] [2019-12-18 20:07:05] com.yudachi.log.service.LogService.changeUserRecord(54) | VIDEO_RATING_PREFIX:3000|505|3.8|1576670825872
+[INFO] [2019-12-18 20:07:11] com.yudachi.log.service.LogService.changeUserRecord(54) | VIDEO_RATING_PREFIX:3000|505|4.3999999999999995|1576670831476
+[INFO] [2019-12-18 20:07:13] com.yudachi.log.service.LogService.changeUserRecord(54) | VIDEO_RATING_PREFIX:3000|505|4.8|1576670833826
+[INFO] [2019-12-18 20:07:15] com.yudachi.log.service.LogService.changeUserRecord(54) | VIDEO_RATING_PREFIX:3000|505|5.0|1576670835597

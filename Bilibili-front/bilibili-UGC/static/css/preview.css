@@ -1,0 +1,57 @@
+a{
+  text-decoration: none;
+  cursor: pointer;
+  color: #00a1d6;
+}
+
+ul li{
+  list-style: none;
+}
+
+body button, body input, body textarea {
+  outline: none;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  margin: 0px;
+}
+
+.preview-body{
+  position: relative;
+  width: 100%;
+  min-width: 940px;
+}
+
+.preview-player{
+  display: inline-block;
+  width: 400px;
+  height: 400px;
+}
+
+.preview-media{
+  position: absolute;
+  top: 265px;
+  right: 0px;
+  bottom: 0px;
+  left: 240px;
+  max-height: 100%;
+  max-width: 100%;
+  margin: auto;
+  border-radius: 10px;
+  outline: none;
+}
+
+.ugc-preview-steps{
+  width: 980px;
+  margin: 50px auto 30px auto;
+  position: relative;
+}
+
+.el-step{
+  flex-basis: 33% !important;
+}
